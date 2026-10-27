@@ -32,8 +32,8 @@ src/com/starterkit/
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/LamaBimal/Java-OOP-StarterKit.git
-   cd Java-OOP-StarterKit
+   git clone https://github.com/LamaBimal/java-oop-fundamentals.git
+   cd java-oop-fundamentals
    ```
 
 2. Compile all Java files:
